@@ -1,4 +1,4 @@
-# Bash In Jupyter
+# Bash in Jupyter
 
 Bash scripts are the best ! But sometimes it is quite hard to iterate on them as
 fast as with python scripts. This small repository aims to demonstrate how we
@@ -32,7 +32,7 @@ PIPENV_VENV_IN_PROJECT=enabled pipenv sync --dev
 See how we can leverage _notebooks_ to build an interactive bash script in
 [bash.ipynb](bash.ipynb)
 
-![bash.ipynb screenshot](https://user-images.githubusercontent.com/19719047/80550720-46ef4200-89c1-11ea-8a18-19c68d6aa8ef.png)
+![bash.ipynb screenshot](https://user-images.githubusercontent.com/19719047/80865057-0cb6c680-8c87-11ea-8e0c-bf0877594132.png)
 
 ## Inline Code Cells
 
@@ -41,7 +41,7 @@ See how we can leverage _notebooks_ to build an interactive bash script in
 See how we can leverage _inline code cells_ to build an interactive bash script
 in [bash.py](bash.py)
 
-![bash.py screenshot](https://user-images.githubusercontent.com/19719047/80550657-0d1e3b80-89c1-11ea-91fc-75d23343d0e7.png)
+![bash.py screenshot](https://user-images.githubusercontent.com/19719047/80865059-10e2e400-8c87-11ea-853a-998e799acb7f.png)
 
 ## Documentation
 

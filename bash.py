@@ -11,7 +11,7 @@
 
 
 # %%
-!kubectl run toolbox --image=badouralix/toolbox --command sleep inf
+!kubectl run toolbox --image=badouralix/toolbox -- sleep inf
 
 
 # %%
@@ -23,7 +23,7 @@
 
 
 # %%
-!kubectl delete pod toolbox
+!time kubectl delete pod toolbox
 
 
 # %%
